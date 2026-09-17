@@ -4,6 +4,7 @@ export const company = {
   description:
     "NP Digital is a modern technology and digital solutions company that transforms ideas into powerful digital products and systems for individuals, startups, and businesses.",
   email: "npdigitalinfo@gmail.com",
+  email2: "contact@npdigitall.com",
   phone: "+263 71 694 2118",
   phoneHref: "+263716942118",
   phone2: "+91 88665 9566",

@@ -14,7 +14,8 @@ Go to: https://app.netlify.com/sites/npdigitall
 - [ ] Click **"Settings"** → **"Forms"** → **"Form notifications"**
 - [ ] Click **"Add notification"**
 - [ ] Choose **"Email notification"**
-- [ ] Set email to: **npdigitalinfo@gmail.com**
+- [ ] Set email to: **npdigitalinfo@gmail.com, contact@npdigitall.com**
+  - Or create two separate notifications (one for each email)
 - [ ] Select form: **contact**
 - [ ] Click **"Save"**
 
@@ -46,7 +47,9 @@ Go to: https://app.netlify.com/sites/npdigitall
 - Success confirmation message after submit
 
 **What you get:**
-- Email notification to npdigitalinfo@gmail.com
+- Email notifications to:
+  - npdigitalinfo@gmail.com
+  - contact@npdigitall.com
 - All submissions stored in Netlify dashboard
 - Spam protection with honeypot
 - 100 free submissions per month

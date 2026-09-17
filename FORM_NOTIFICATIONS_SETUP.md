@@ -26,9 +26,13 @@ Your contact form is now properly configured and deployed to:
 5. Configure:
    - **Event to listen for:** New form submission
    - **Form:** contact
-   - **Email to notify:** `npdigitalinfo@gmail.com`
-   - Optionally add more emails (comma-separated)
+   - **Email to notify:** `npdigitalinfo@gmail.com, contact@npdigitall.com`
+   - You can add both emails separated by comma
 6. Click **Save**
+
+   **OR** create two separate notifications:
+   - First notification: npdigitalinfo@gmail.com
+   - Second notification: contact@npdigitall.com
 
 ### Step 4: Test the Form
 1. Go to https://npdigitall.netlify.app/#contact

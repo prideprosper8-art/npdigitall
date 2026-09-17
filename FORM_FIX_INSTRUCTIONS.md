@@ -31,7 +31,8 @@ If you see "No forms detected":
 4. Configure:
    - **Event:** New form submission  
    - **Form:** contact
-   - **Email:** npdigitalinfo@gmail.com
+   - **Emails:** npdigitalinfo@gmail.com, contact@npdigitall.com
+   - (You can add both emails separated by comma, or create two separate notifications)
 5. Click **"Save"**
 
 ### Step 5: Test the Form

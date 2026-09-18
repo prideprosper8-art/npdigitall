@@ -10,8 +10,8 @@ export const company = {
   phone2: "+91 88665 9566",
   phone2Href: "+91886659566",
   location: "Harare, Zimbabwe",
-  website: "www.npdigital.in",
-  url: "https://www.npdigital.in",
+  website: "npdigitall.com",
+  url: "https://npdigitall.com",
 } as const;
 
 export type Service = {

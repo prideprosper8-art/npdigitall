@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.npdigital.in/sitemap.xml
+Sitemap: https://npdigitall.com/sitemap.xml

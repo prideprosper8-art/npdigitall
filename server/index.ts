@@ -155,7 +155,7 @@ async function deliver(inquiry: Inquiry): Promise<{ ok: boolean; via: string }> 
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          source: "npdigital.in website",
+          source: "npdigitall.com website",
           ...inquiry,
         }),
         signal: AbortSignal.timeout(8000),
